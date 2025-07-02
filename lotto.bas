@@ -14,4 +14,4 @@
 140 next i\
 150 pb = int(rnd(1)*26)+1\
 160 print " pb:";pb\
-170 end}
+170 end
