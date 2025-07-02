@@ -7,7 +7,7 @@ followed by a Powerball number between 1 and 26.
 
 INSTRUCTIONS:
 -------------
-1.Type in the program as seen in lotto.bas
+1. Type in the program as seen in the lotto.bas into your Commodore device.
 2. The screen will display:
    - Five random numbers (1–69)
    - One Powerball number (1–26)
