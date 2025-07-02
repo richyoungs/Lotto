@@ -7,25 +7,27 @@ followed by a Powerball number between 1 and 26.
 
 INSTRUCTIONS:
 -------------
-1. LOAD and RUN the program.
+1.Type in the program as seen in lotto.bas
 2. The screen will display:
    - Five random numbers (1–69)
    - One Powerball number (1–26)
 
 PLATFORM COMPATIBILITY:
 ------------------------
-✓ Commodore VIC-20 (unexpanded or with RAM expansion)
-✓ Commodore 64
-✓ Commodore 128 (in C64 or native mode)
+- ✓ Commodore VIC-20 (unexpanded or with RAM expansion)
+- ✓ Commodore 64
+- ✓ Commodore 128 (in C64 or native mode)
 
 TESTED ON:
 ----------
-✓ Real VIC-20 with SD2IEC and xVic emulator
-✓ Real Commodore 64 with SD2IEC and x64sc emulator
-✓ Real Commodore 128 with SD2IEC and x128 emulator
+- ✓ Real VIC-20 with SD2IEC and xVic emulator
+- ✓ Real Commodore 64 with SD2IEC and x64sc emulator
+- ✓ Real Commodore 128 with SD2IEC and x128 emulator
 
 NOTES:
 ------
 - The program avoids duplicate numbers.
 - Results vary on each run thanks to BASIC's RND() function.
 - No joystick or special hardware required.
+- I'm also working on a .prg for easier loading and saving.
+
